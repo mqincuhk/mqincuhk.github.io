@@ -20,7 +20,7 @@ Please contact me through: mqin@link.cuhk.edu.hk
 
 
 ---
-# **[Selected Publications]** (./selected_publications.html).
+# [Selected Publications](./selected_publications.html).
 
 ---
 # **Teaching**
