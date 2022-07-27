@@ -6,17 +6,25 @@ layout: default
 
 I am a Ph.D. Candidate from CUHK studying toolpath generation and optimization algorithms for additive manufacturing.  
 
+
+
 ---
 # **News**
 Under construction...
+
+
 
 ---
 # **Research**
 Under construction...
 
+
+
 ---
 # **Teaching**
 Under construction...
+
+
 
 
 
