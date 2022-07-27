@@ -7,25 +7,18 @@ layout: default
 I am a Ph.D. Candidate from CUHK studying toolpath generation and optimization algorithms for additive manufacturing.  
 
 
-
----
 # **News**
-Under construction...
+\- One paper accepted:   
+Mian Qin, Shiming Gao, Charlie C. L. Wang, and Wei-Hsin Liao, "Multi-axis direct metal deposition process with effective regrouping strategy," *Journal of Manufacturing Processes*, 2022, 81: 707-716.  
 
 
 
----
 # **Research**
 Under construction...
 
 
-
----
 # **Teaching**
-Under construction...
-
-
-
+Awarded Faculty Outstanding Tutor Award (2021) 
 
 
 
