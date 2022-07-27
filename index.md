@@ -15,17 +15,15 @@ Please contact me through: mqin@link.cuhk.edu.hk
 
 ---
 # **News**
-\- One paper accepted:   
-Mian Qin, Shiming Gao, Charlie C. L. Wang, and Wei-Hsin Liao, "Multi-axis direct metal deposition process with effective regrouping strategy," *Journal of Manufacturing Processes*, 2022, 81: 707-716.  
+\- One paper accepted on *Journal of Manufacturing Processes* 
 
 
 ---
 # **Research**
 Under construction
 
+| <img src="assets/img/multi-axis.jpg" alt="drawing" width="50"/>      |  Mian Qin, Shiming Gao, Charlie C. L. Wang, and Wei-Hsin Liao, "Multi-axis direct metal deposition process with effective regrouping strategy," *Journal of Manufacturing Processes*, 2022, 81: 707-716. |
 
-| ![test](/assets/img/multi-axis.jpg)           | testing... |
-|   | testing... |
 
 
 ---
