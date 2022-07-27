@@ -15,12 +15,11 @@ I am a Ph.D. Candidate from CUHK studying toolpath generation and optimization a
 Please contact me through: mqin@link.cuhk.edu.hk
 
 ---
-# **News**
-- (July 2022) One paper published on *Journal of Manufacturing Processes*: https://doi.org/10.1016/j.jmapro.2022.07.024
-
+# [Selected Publications](./selected_publications.html)
 
 ---
-# [Selected Publications](./selected_publications.html).
+# **News**
+- (July 2022) One paper published on *Journal of Manufacturing Processes*: https://doi.org/10.1016/j.jmapro.2022.07.024
 
 ---
 # **Teaching**
