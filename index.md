@@ -6,6 +6,8 @@ layout: default
 
 I am a Ph.D. Candidate from CUHK studying toolpath generation and optimization algorithms for additive manufacturing.  
 
+Contact me through: mqin@link.cuhk.edu.hk
+
 ---
 # **News**
 \- One paper accepted:   
