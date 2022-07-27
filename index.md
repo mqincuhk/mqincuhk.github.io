@@ -4,7 +4,7 @@ layout: default
 
 # **Welcome to my homepage**
 
-I am a Ph.D. Candidate from CUHK studying toolpath generation and optimization algorithms for additive manufacturing. 
+I am a Ph.D. Candidate from [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html). My research mainly focuses on toolpath generation and optimization algorithms for additive manufacturing. 
 
 
 ### **Research Interests:**
@@ -14,7 +14,7 @@ I am a Ph.D. Candidate from CUHK studying toolpath generation and optimization a
 
 Please contact me through: mqin@link.cuhk.edu.hk
 
-# [Selected Publications](./selected_publications.html)
+# [Recent Publications](./selected_publications.html)
 
 ---
 # **News**
