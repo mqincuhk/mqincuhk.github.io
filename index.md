@@ -1,13 +1,13 @@
 ---
 layout: default
 ---
-#
+<br>
 
 # **Welcome to my homepage**
 
 I am a Ph.D. Candidate from CUHK studying toolpath generation and optimization algorithms for additive manufacturing.  
 
-## **Research Interests:**
+### **Research Interests:**
 - Toolpath generation and optimization algorithms
 - Multi-axis robotics-based additive manufacturing
 - Reinforcement learning-based toolpath optimization
