@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# **Welcome to my homepage.**
+# **Welcome to QIN Mian's homepage**
 
 I am a Ph.D. Candidate from CUHK studying toolpath generation and optimization algorithms for additive manufacturing.  
 
