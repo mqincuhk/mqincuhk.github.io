@@ -14,7 +14,8 @@ I am a Ph.D. Candidate from [The Chinese University of Hong Kong](https://www.cu
 
 Please contact me through: mqin@link.cuhk.edu.hk
 
-### Please find my recent publications by clicking this page: **[Recent Publications]**(./selected_publications.html)
+Please find my recent publications in page: 
+### [Recent Publications](./selected_publications.html)
 
 ---
 # **News**
