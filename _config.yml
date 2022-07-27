@@ -1,6 +1,10 @@
 title: &emsp; QIN Mian 
 logo: /assets/img/photo.jpg
-description: Ph.D. Candidate from CUHK
+description: Ph.D. Candidate
+affiliation: The Chinese University of Hong Kong
+email: mqin@link.cuhk.edu.hk
 show_downloads: False
+
+linkedin: 
 google_analytics:
 theme: jekyll-theme-minimal
