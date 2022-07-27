@@ -14,7 +14,6 @@ I am a Ph.D. Candidate from CUHK studying toolpath generation and optimization a
 
 Please contact me through: mqin@link.cuhk.edu.hk
 
----
 # [Selected Publications](./selected_publications.html)
 
 ---
