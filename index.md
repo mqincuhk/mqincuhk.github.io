@@ -13,7 +13,6 @@ I am a Ph.D. Candidate from [The Chinese University of Hong Kong](https://www.cu
 - Reinforcement learning-based toolpath optimization
 
 Please contact me through: mqin@link.cuhk.edu.hk
-
 #### Please find my recent publications in: [Recent Publications](./selected_publications.html)
 
 ---
