@@ -19,7 +19,7 @@ Please contact me through: mqin@link.cuhk.edu.hk
 
 ---
 # **News**
-- (July 2022) One paper published on *Journal of Manufacturing Processes*: https://doi.org/10.1016/j.jmapro.2022.07.024
+- (July 2022) ![One paper](https://doi.org/10.1016/j.jmapro.2022.07.024) published on *Journal of Manufacturing Processes*
 
 ---
 # **Teaching**
