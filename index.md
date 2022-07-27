@@ -24,6 +24,3 @@ Awarded Faculty Outstanding Tutor Award (2021)
 
 
 
----
-<a href="https://clustrmaps.com/site/1bpkm"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=M43mMXEyo9n29UHnSDUT-wUosz1cCTbXBe7N_OuIqh0&cl=ffffff" /></a>
-
