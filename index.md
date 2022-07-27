@@ -24,7 +24,7 @@ Mian Qin, Shiming Gao, Charlie C. L. Wang, and Wei-Hsin Liao, "Multi-axis direct
 Under construction
 
 
-| (/assets/img/multi-axis.jpg)           | testing... |
+| ![test](/assets/img/multi-axis.jpg)           | testing... |
 |   | testing... |
 
 
