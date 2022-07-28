@@ -11,8 +11,8 @@ Please contact me through: mqin@link.cuhk.edu.hk
 ---
 ### **Research Interests:**
 - Toolpath generation and optimization algorithms
-- Multi-axis robotics-based additive manufacturing
 - Reinforcement learning-based toolpath optimization
+- Multi-axis robotics-based additive manufacturing
 
 #### Please find my recent publications in: [Recent Publications](./selected_publications.html)
 
