@@ -18,7 +18,8 @@ Please contact me through: mqin@link.cuhk.edu.hk
 
 ---
 ### **News**
-- (July 2022) [One paper](https://doi.org/10.1016/j.jmapro.2022.07.024) published on *Journal of Manufacturing Processes*
+- (July 2022) [One paper](https://doi.org/10.1016/j.jmapro.2022.07.024) regarding the novel optimization strategy of multi-axis printing has been published on *Journal of Manufacturing Processes*
+- (June 2022) I have passed the oral defense of my Ph.D. degree!
 
 ---
 ### **Teaching**
