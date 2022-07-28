@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Recent Publications [(Full List)](https://scholar.google.com/citations?user=Vt3yXJkaAWAC&hl=zh-CN&oi=ao)   
+# Recent Publications [(full list)](https://scholar.google.com/citations?user=Vt3yXJkaAWAC&hl=zh-CN&oi=ao)   
 ---
 
 <img src="assets/img/multi-axis.jpg" alt="drawing" width="400"/>    
