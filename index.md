@@ -21,7 +21,7 @@ Please contact me through: mqin@link.cuhk.edu.hk
 
 ---
 # **Teaching**
-- Awarded Faculty Outstanding Tutor Award (2021) 
+- Faculty Outstanding Tutor Award (2021) 
 
 
 
