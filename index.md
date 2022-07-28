@@ -16,11 +16,11 @@ Please contact me through: mqin@link.cuhk.edu.hk
 #### Please find my recent publications in: [Recent Publications](./selected_publications.html)
 
 ---
-# **News**
+### **News**
 - (July 2022) [One paper](https://doi.org/10.1016/j.jmapro.2022.07.024) published on *Journal of Manufacturing Processes*
 
 ---
-# **Teaching**
+### **Teaching**
 - Faculty Outstanding Tutor Award (2021) 
 
 
