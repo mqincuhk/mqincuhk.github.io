@@ -6,7 +6,7 @@ layout: default
 
 I am a final year Ph.D. Candidate from The Chinese University of Hong Kong (CUHK), supervised by Professor [Wei-Hsin Liao](https://www4.mae.cuhk.edu.hk/peoples/liao-wei-hsin/). My research mainly focuses on toolpath generation and optimization algorithms for additive manufacturing. 
 
-After graduation, I will move on to postdoctoral studies. 
+After graduation, I will move on to conduct postdoctoral studies. 
 
 ---
 ### **Research Interests:**
@@ -31,7 +31,7 @@ After graduation, I will move on to postdoctoral studies.
 
 ---
 ### Programming Languages
-- [Python](https://docs.python.org/3.10/tutorial/index.html) and [C++](https://isocpp.org/)
+- [Python](https://docs.python.org/3.10/tutorial/index.html) and [C/C++](https://isocpp.org/)
 
 
 
