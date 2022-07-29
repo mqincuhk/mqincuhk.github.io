@@ -5,8 +5,11 @@ layout: default
 # Recent Publications [(full list)](https://scholar.google.com/citations?user=Vt3yXJkaAWAC&hl=zh-CN&oi=ao)   
 ---
 
-##### <u>Mian Qin</u>, Shuo Qu, Junhao Ding, Xu Song, Shiming Gao, Charlie C. L. Wang, and Wei-Hsin Liao, "Adaptive toolpath generation for distortion reduction in laser powder bed fusion process,", *Additive Manufacturing*, 2022 (under 2nd review).
+##### Adaptive toolpath generation for distortion reduction in laser powder bed fusion process
+**<u>Mian Qin</u>**, Shuo Qu, Junhao Ding, Xu Song, Shiming Gao, Charlie C. L. Wang, and Wei-Hsin Liao
+*Additive Manufacturing*, (under 2nd review), 2022
 <hr style="border:1px solid black"> 
+<br>
 
 
 <img src="assets/img/multi-axis.jpg" alt="drawing" width="450"/>    
