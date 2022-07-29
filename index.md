@@ -10,12 +10,10 @@ Please contact me through: <u> mqin@link.cuhk.edu.hk </u>
 
 ---
 ### **Research Interests:**
-<font color=blue>
+- <font color=blue> Toolpath generation and optimization algorithms </font> 
+- <font color=blue> Reinforcement learning-based toolpath optimization </font> 
+- <font color=blue> Multi-axis robotics-based additive manufacturing </font> 
 
-- Toolpath generation and optimization algorithms
-- Reinforcement learning-based toolpath optimization
-- Multi-axis robotics-based additive manufacturing
-</font> 
 
 #### Please find my recent publications in: [Recent Publications](./selected_publications.html)
 
@@ -25,7 +23,6 @@ Please contact me through: <u> mqin@link.cuhk.edu.hk </u>
 ##### *[07/2022]* &nbsp; [One paper](https://doi.org/10.1016/j.jmapro.2022.07.024) regarding the <font color=red> novel optimization strategy of multi-axis printing </font> has been published on *Journal of Manufacturing Processes*. 
 ##### *[06/2022]* &nbsp; I have passed the oral defense of my Ph.D. degree!
 
-<br>
 
 ---
 ### Awards
