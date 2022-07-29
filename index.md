@@ -6,7 +6,7 @@ layout: default
 
 I am a Ph.D. Candidate from [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html). My research mainly focuses on <u> toolpath generation and optimization algorithms </u> for additive manufacturing. 
 
-Please contact me through: mqin@link.cuhk.edu.hk
+Please contact me through: *mqin@link.cuhk.edu.hk*
 
 ---
 ### **Research Interests:**
@@ -19,8 +19,10 @@ Please contact me through: mqin@link.cuhk.edu.hk
 ---
 ### News
 
-- <small> [*07/2022]*  [One paper](https://doi.org/10.1016/j.jmapro.2022.07.024) regarding the novel optimization strategy of multi-axis printing has been published on *JMP*.</small>
-- <small> [*06/2022]*  I have passed the oral defense of my Ph.D. degree! </small>
+<font size=2>
+
+- [*07/2022]*  [One paper](https://doi.org/10.1016/j.jmapro.2022.07.024) regarding the novel optimization strategy of multi-axis printing has been published on *Journal of Manufacturing Processes*.
+- [*06/2022]*  I have passed the oral defense of my Ph.D. degree! </font>
 
 ---
 ### Awards
