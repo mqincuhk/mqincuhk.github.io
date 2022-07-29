@@ -24,13 +24,13 @@ I am a Ph.D. Candidate from The Chinese University of Hong Kong. My research mai
 <br>
 
 ---
+### Awards
+- Teaching Assistant: Faculty Outstanding Tutor Award (2021) 
+
+---
 ### Programming Languages
 - [Python](https://docs.python.org/3.10/tutorial/index.html)
 - [C/C++](https://isocpp.org/)
-
----
-### Awards
-- Teaching Assistant: Faculty Outstanding Tutor Award (2021) 
 
 
 
