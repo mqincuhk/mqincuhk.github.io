@@ -4,7 +4,7 @@ layout: default
 
 # **Welcome to my homepage**
 
-I am a Ph.D. Candidate from [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html). My research mainly focuses on <font color=red> toolpath generation and optimization algorithms </font> for additive manufacturing. 
+I am a Ph.D. Candidate from [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html). My research mainly focuses on <font color=black> toolpath generation and optimization algorithms </font> for additive manufacturing. 
 
 Please contact me through: mqin@link.cuhk.edu.hk
 
@@ -14,14 +14,14 @@ Please contact me through: mqin@link.cuhk.edu.hk
 - Reinforcement learning-based toolpath optimization
 - Multi-axis robotics-based additive manufacturing
 
-#### <font color=red> Please find my recent publications in: [Recent Publications](./selected_publications.html) </font>
+#### <font color=blue> **Please find my recent publications in:</font> [Recent Publications](./selected_publications.html)** 
 
 ---
 ### News
 <small>  
 
-- **[*07/2022]*  [One paper](https://doi.org/10.1016/j.jmapro.2022.07.024) regarding the novel optimization strategy of multi-axis printing has been published on *JMP*.**
-- **[*06/2022]*  I have passed the oral defense of my Ph.D. degree!**
+- [*07/2022]*  [One paper](https://doi.org/10.1016/j.jmapro.2022.07.024) regarding the novel optimization strategy of multi-axis printing has been published on *JMP*.
+- [*06/2022]*  I have passed the oral defense of my Ph.D. degree!
 
 </small>
 
