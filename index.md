@@ -21,6 +21,8 @@ I am a Ph.D. Candidate from The Chinese University of Hong Kong. My research mai
 ##### *[07/2022]* &nbsp; [One paper](https://doi.org/10.1016/j.jmapro.2022.07.024) regarding the <font color=red> novel optimization strategy of multi-axis printing </font> has been published on *Journal of Manufacturing Processes*. 
 ##### *[06/2022]* &nbsp; I have passed the oral defense of my Ph.D. degree!   
 
+<br>
+
 ---
 ### Programming Languages
 - [Python](https://docs.python.org/3.10/tutorial/index.html)
