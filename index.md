@@ -18,9 +18,12 @@ Please contact me through: mqin@link.cuhk.edu.hk
 
 ---
 ### News
-##### [*07/2022]* &nbsp; [One paper](https://doi.org/10.1016/j.jmapro.2022.07.024) regarding the novel optimization strategy of multi-axis printing has been published on *JMP*. 
+<small>
+
+[*07/2022]* &nbsp; [One paper](https://doi.org/10.1016/j.jmapro.2022.07.024) regarding the novel optimization strategy of multi-axis printing has been published on *JMP*. 
 ##### [*06/2022]* &nbsp; I have passed the oral defense of my Ph.D. degree!
 
+</small>
 ---
 ### Awards
 - Teaching Assistant: Faculty Outstanding Tutor Award (2021) 
