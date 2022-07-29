@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Recent Publications [(full list)](https://scholar.google.com/citations?user=Vt3yXJkaAWAC&hl=zh-CN&oi=ao)   
+# Recent Publications  
 ---
 
 **Adaptive toolpath generation for distortion reduction in laser powder bed fusion process**    
