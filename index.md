@@ -6,13 +6,13 @@ layout: default
 
 I am a final year Ph.D. Candidate from The Chinese University of Hong Kong (CUHK), supervised by Professor [Wei-Hsin Liao](https://www4.mae.cuhk.edu.hk/peoples/liao-wei-hsin/). My research mainly focuses on toolpath generation and optimization algorithms for additive manufacturing. 
 
-After graduation, I will continue to do postdoctoral studies in CUHK. 
+After graduation, I will move on to postdoctoral studies. 
 
 ---
 ### **Research Interests:**
-- <font color=blue> Toolpath generation and optimization algorithms </font> 
-- <font color=blue> Reinforcement learning-based toolpath optimization </font> 
-- <font color=blue> Multi-axis robotics-based additive manufacturing </font> 
+- <font color=black> Toolpath generation and optimization algorithms </font> 
+- <font color=black> Reinforcement learning-based toolpath optimization </font> 
+- <font color=black> Multi-axis robotics-based additive manufacturing </font> 
 
 
 #### Please find my recent publications in: [Recent Publications](./selected_publications.html)
