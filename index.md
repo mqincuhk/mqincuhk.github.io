@@ -31,7 +31,7 @@ After graduation, I will continue my postdoctoral research.
 
 ---
 ### Programming Languages
-- [Python](https://docs.python.org/3.10/tutorial/index.html) and [C/C++](https://isocpp.org/)
+- [Python](https://docs.python.org/3.10/tutorial/index.html) and [C/C++](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#c-core-guidelines)
 
 
 
