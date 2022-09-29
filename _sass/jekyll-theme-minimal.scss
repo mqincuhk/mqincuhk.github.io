@@ -10,6 +10,13 @@ body {
   font-weight:400;
 }
 
+
+
+body:hover, body:focus {
+  color:rgb(153, 0, 51);
+}
+
+
 body2 {
   text-align:justify;
   font: 15px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
