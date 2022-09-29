@@ -21,8 +21,8 @@ I will continue with my postdoctoral research after graduation.
 ---
 ### News
 
-##### *(07/2022)*  [One paper](https://doi.org/10.1016/j.jmapro.2022.07.024) regarding the <font color=red> novel optimization strategy of multi-axis printing </font> has been published on *Journal of Manufacturing Processes*. 
-##### *(06/2022)* I have passed the oral defense of my Ph.D. degree!   
+##### - *(07/2022)*  [One paper](https://doi.org/10.1016/j.jmapro.2022.07.024) regarding the <font color=red> novel optimization strategy of multi-axis printing </font> has been published on *Journal of Manufacturing Processes*. 
+##### - *(06/2022)* I have passed the oral defense of my Ph.D. degree!   
 
 
 <p style = "margin:20px"></p>
