@@ -12,7 +12,7 @@ I will continue with my postdoctoral research after graduation.
 ---
 ### **Research Interests:**
 - <font color=black> Toolpath generation and optimization algorithms </font> 
-- <font color=black> Reinforcement learning-based toolpath optimization </font> 
+- <font color=black> Deep reinforcement learning-based toolpath optimization </font> 
 - <font color=black> Multi-axis robotics-based additive manufacturing </font> 
 
 
@@ -21,8 +21,8 @@ I will continue with my postdoctoral research after graduation.
 ---
 ### News
 
-##### - *(07/2022)*  [One paper](https://doi.org/10.1016/j.jmapro.2022.07.024) regarding <font color=red> multi-axis printing algorithms </font> has been published. 
-##### - *(06/2022)* I have passed the <font color=red> oral defense </font> of my Ph.D. degree!   
+##### - *[07/2022]* [One paper](https://doi.org/10.1016/j.jmapro.2022.07.024) regarding <font color=red> multi-axis printing algorithms </font> has been published. 
+##### - *[06/2022]* I have passed the <font color=red> oral defense </font> of my Ph.D. degree!   
 
 
 <p style = "margin:20px"></p>
