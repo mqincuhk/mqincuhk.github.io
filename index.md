@@ -3,12 +3,13 @@ layout: default
 ---
 
 # **Welcome to my homepage**
-<p style="text-align: justify">
+<p style="text-align: justify"> 
 I am a final year Ph.D. Candidate from The Chinese University of Hong Kong ([CUHK](https://www.cuhk.edu.hk/english/index.html)), supervised by Professor [Wei-Hsin Liao](https://www4.mae.cuhk.edu.hk/peoples/liao-wei-hsin/). My research mainly focuses on toolpath generation and optimization algorithms for additive manufacturing. 
+</p>
 
 I will continue with my postdoctoral research after graduation. 
 
-</p>
+
 ---
 ### **Research Interests:**
 - <font color=black> Toolpath generation and optimization algorithms </font> 
@@ -20,11 +21,11 @@ I will continue with my postdoctoral research after graduation.
 
 ---
 ### News
-<p style="text-align: justify">
+
 ##### *(07/2022)* &nbsp; [One paper](https://doi.org/10.1016/j.jmapro.2022.07.024) regarding the <font color=red> novel optimization strategy of multi-axis printing </font> has been published on *Journal of Manufacturing Processes*. 
 ##### *(06/2022)* &nbsp; I have passed the oral defense of my Ph.D. degree!   
 
-</p>
+
 <p style = "margin:20px"></p>
 ---
 ### Awards
