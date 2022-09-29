@@ -54,7 +54,8 @@ a {
 }
 
 a:hover, a:focus {
-  color:#069;
+  color:rgb(153, 0, 36);
+  text-decoration: underline;
 }
 
 a small {
@@ -65,7 +66,8 @@ a small {
 }
 
 a:hover small {
-  color:#777;
+  color:rgb(153, 0, 36);
+  text-decoration: underline;
 }
 
 .wrapper {
