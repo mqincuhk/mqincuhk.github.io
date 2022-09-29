@@ -22,7 +22,7 @@ I will continue with my postdoctoral research after graduation.
 ### News
 
 ##### - *(07/2022)*  [One paper](https://doi.org/10.1016/j.jmapro.2022.07.024) regarding <font color=red> multi-axis printing algorithms </font> has been published. 
-##### - *(06/2022)* I have passed the oral defense of my Ph.D. degree!   
+##### - *(06/2022)* I have passed the <font color=red> oral defense </font> of my Ph.D. degree!   
 
 
 <p style = "margin:20px"></p>
