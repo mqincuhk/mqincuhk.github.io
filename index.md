@@ -14,7 +14,7 @@ I will continue with my postdoctoral research after graduation.
 - <font color=black> Deep reinforcement learning-based toolpath optimization </font> 
 - <font color=black> Multi-axis robotics-based additive manufacturing </font> 
 
-<hr style="border:0.5px solid blue"> 
+<hr style="border:1px solid blue"> 
 
 ### **News:** 
 
@@ -46,7 +46,8 @@ I will continue with my postdoctoral research after graduation.
 <hr style="border:1px solid blue"> 
 
 ### **Programming Languages:**
-- [Python](https://docs.python.org/3.10/tutorial/index.html) and [C++](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#c-core-guidelines)
+- [Python](https://docs.python.org/3.10/tutorial/index.html)   
+- [C++](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#c-core-guidelines)
 
 
 
