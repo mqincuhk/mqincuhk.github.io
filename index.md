@@ -50,5 +50,7 @@ I will continue with my postdoctoral research after graduation.
 - [Python](https://docs.python.org/3.10/tutorial/index.html)   
 - [C++](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#c-core-guidelines)
 
+<hr style="border:1px solid blue"> 
+
 
 
