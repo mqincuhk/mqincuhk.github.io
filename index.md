@@ -7,14 +7,14 @@ I am a final year Ph.D. Candidate from The Chinese University of Hong Kong ([CUH
 
 I will continue with my postdoctoral research after graduation. 
 
-<hr style="border:1px solid black"> 
+<hr style="border:1px solid blue"> 
 
 ### **Research Interests:**
 - <font color=black> Toolpath generation and optimization algorithms </font> 
 - <font color=black> Deep reinforcement learning-based toolpath optimization </font> 
 - <font color=black> Multi-axis robotics-based additive manufacturing </font> 
 
-<hr style="border:1px solid black"> 
+<hr style="border:1px solid blue"> 
 
 ### **News:** 
 
@@ -23,7 +23,7 @@ I will continue with my postdoctoral research after graduation.
 
 
 <p style = "margin:20px"></p>
-<hr style="border:1px solid black"> 
+<hr style="border:1px solid blue"> 
 
 ### **Recent Publications:**  
 
@@ -39,12 +39,12 @@ I will continue with my postdoctoral research after graduation.
 *[Journal of Manufacturing Processes](https://www.sciencedirect.com/journal/journal-of-manufacturing-processes)*, 2022, 81: 707-716. *(IF = 5.7)*  
 <img src="assets/img/multi-axis.jpg" alt="drawing" width="520"/>    
   
-<hr style="border:1px solid black"> 
+<hr style="border:1px solid blue"> 
 
 ### **Awards:**
 - Teaching Assistant: Faculty Outstanding Tutor Award (2021) 
 
-<hr style="border:1px solid black"> 
+<hr style="border:1px solid blue"> 
 
 ### **Programming Languages:**
 - [Python](https://docs.python.org/3.10/tutorial/index.html) and [C++](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#c-core-guidelines)
