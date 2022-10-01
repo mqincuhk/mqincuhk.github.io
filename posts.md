@@ -1,5 +1,5 @@
 ---
-layout: none
+layout: default_posts
 ---
 
 # Posts  
