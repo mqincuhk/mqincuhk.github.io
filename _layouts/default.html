@@ -41,29 +41,6 @@
         <br>
         <a href="./posts.html" ><i class="fa-sharp fa-solid fa-blog"></i><span> Posts </span></a>
         
-        <!-- Gitalk 评论 start  -->
-        {% if site.gitalk.enable %}
-        <!-- Link Gitalk 的支持文件  -->
-        <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-        <script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script>
-  
-        <div id="gitalk-container"></div>
-            <script type="text/javascript">
-            var gitalk = new Gitalk({
-            // gitalk的主要参数
-                clientID: `f15024cc98c165165396`,
-                clientSecret: `809f10239f87ef1e73a14e13222d50d80904685c`,
-                repo: `mqincuhk.github.io`,
-                owner: 'mqincuhk',
-                admin: ['mqincuhk'],
-                id: 'mqincuhk.github.io',
-            
-            });
-            gitalk.render('gitalk-container');
-        </script>
-        {% endif %}
-        <!-- Gitalk end -->
-
         <br>
         <br>
         <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=250&t=tt&d=M43mMXEyo9n29UHnSDUT-wUosz1cCTbXBe7N_OuIqh0'></script>
@@ -73,7 +50,7 @@
       <section>
 
       {{ content }}
-
+      
       </section>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
