@@ -49,31 +49,33 @@
       </header>
       <section>
 
-      {{ content }}
-
-      <!-- Gitalk 评论 start  -->
-      {% if site.gitalk.enable %}
-      <!-- Link Gitalk 的支持文件  -->
-      <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-      <script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script>
-
-      <div id="gitalk-container"></div>
-          <script type="text/javascript">
-          var gitalk = new Gitalk({
-          // gitalk的主要参数
-              clientID: `f15024cc98c165165396`,
-              clientSecret: `809f10239f87ef1e73a14e13222d50d80904685c`,
-              repo: `mqincuhk.github.io`,
-              owner: 'mqincuhk',
-              admin: ['mqincuhk'],
-              id: 'mqincuhk.github.io',
-          
-          });
-          gitalk.render('gitalk-container');
-      </script>
-      {% endif %}
-      <!-- Gitalk end -->
-
+      {{ content }
+    
+          <!-- Gitalk 评论 start  -->
+          {% if site.gitalk.enable %}
+          <!-- Link Gitalk 的支持文件  -->
+          <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+          <script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script>
+    
+          <div id="gitalk-container"></div>
+              <script type="text/javascript">
+              var gitalk = new Gitalk({
+              // gitalk的主要参数
+                  clientID: `f15024cc98c165165396`,
+                  clientSecret: `809f10239f87ef1e73a14e13222d50d80904685c`,
+                  repo: `mqincuhk.github.io`,
+                  owner: 'mqincuhk',
+                  admin: ['mqincuhk'],
+                  id: 'mqincuhk.github.io',
+              
+              });
+              gitalk.render('gitalk-container');
+          </script>
+          {% endif %}
+          <!-- Gitalk end -->
+    
+    
+      }
       </section>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
