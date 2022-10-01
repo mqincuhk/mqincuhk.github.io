@@ -1,8 +1,8 @@
 ---
-layout: default_posts
+layout: default
 ---
 
-# Posts  
+# **Posts**  
 ---
 
 
