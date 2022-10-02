@@ -28,7 +28,7 @@ I will continue with my postdoctoral research after graduation.
 ### **Recent Publications:**  
 
 **Adaptive toolpath generation for distortion reduction in laser powder bed fusion process**    
-**<u>Mian Qin</u>**, Shuo Qu, Junhao Ding, Xu Song, Shiming Gao, Charlie C. L. Wang, and Wei-Hsin Liao&ast;  
+**<u>Mian Qin</u>**, Shuo Qu, Junhao Ding, Xu Song, Shiming Gao, Charlie C. L. Wang, and Wei-Hsin Liao   
 *[Additive Manufacturing](https://www.sciencedirect.com/journal/additive-manufacturing)*, (under 3rd review), 2022. *(TOP, IF = 11.6)*   
 
 ---
