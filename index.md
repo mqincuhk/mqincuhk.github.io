@@ -11,8 +11,9 @@ I will continue with my postdoctoral research after graduation.
 
 ### **Research Interests:**
 - <font color=black> Toolpath generation and optimization algorithms </font> 
-- <font color=black> Deep reinforcement learning-based toolpath optimization </font> 
-- <font color=black> Multi-axis robotics-based additive manufacturing </font> 
+- <font color=black> Multi-axis printing using computational geometry algorithms </font> 
+- - <font color=black> Deep reinforcement learning-based toolpath optimization </font> 
+
 
 <hr style="border:1px solid blue"> 
 
