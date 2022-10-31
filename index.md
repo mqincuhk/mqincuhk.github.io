@@ -8,9 +8,9 @@ I obtained my Ph.D. degree in Mechanical and Automation Engineering from The Chi
 <hr style="border:1px solid blue"> 
 
 ### **Research Interests:**
-- <font color=black> Toolpath generation and optimization algorithms </font> 
-- <font color=black> Multi-axis printing using computational geometry algorithms </font> 
-- <font color=black> Deep reinforcement learning-based toolpath optimization </font> 
+- <font color=black> Path planning and optimization algorithms </font> 
+- <font color=black> Deep reinforcement learning-based path optimization </font> 
+- <font color=black> Multi-axis path planning for additive manufacturing </font> 
 
 
 <hr style="border:1px solid blue"> 
