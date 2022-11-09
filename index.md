@@ -3,7 +3,7 @@ layout: default
 ---
 
 # **Welcome to my homepage**
-I obtained my Ph.D. degree in Mechanical and Automation Engineering from The Chinese University of Hong Kong ([CUHK](https://www.cuhk.edu.hk/english/index.html)), supervised by Professor [Wei-Hsin Liao](https://www4.mae.cuhk.edu.hk/peoples/liao-wei-hsin/). My research mainly focuses on path planning and optimization algorithms. 
+I obtained my Ph.D. degree in Mechanical and Automation Engineering from The Chinese University of Hong Kong ([CUHK](https://www.cuhk.edu.hk/english/index.html)), supervised by Professor [Wei-Hsin Liao](https://www4.mae.cuhk.edu.hk/peoples/liao-wei-hsin/). My research mainly focuses on path optimization algorithms. 
 
 <hr style="border:1px solid blue"> 
 
