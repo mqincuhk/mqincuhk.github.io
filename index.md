@@ -47,8 +47,8 @@ I obtained my Ph.D. degree in Mechanical and Automation Engineering from The Chi
 <hr style="border:1px solid blue"> 
 
 ### **Programming:**
-- Languages: [Python](https://docs.python.org/3.11/tutorial/index.html); [C++](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#c-core-guidelines); [Matlab](https://www.mathworks.com/help/matlab/getting-started-with-matlab.html)     
-- Framework: [Pytorch](https://pytorch.org/); [Tensorflow](https://www.tensorflow.org/)
+- Languages: [Python](https://docs.python.org/3.11/tutorial/index.html);   [C++](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#c-core-guidelines);   [Matlab](https://www.mathworks.com/help/matlab/getting-started-with-matlab.html)     
+- Framework: [Pytorch](https://pytorch.org/);   [Tensorflow](https://www.tensorflow.org/)
 
 
 
