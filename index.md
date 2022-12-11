@@ -15,7 +15,7 @@ Please contact me via the email: <i><u> mqin@cuhk.edu.hk </u> </i>
 - <font color=black> Multi-axis path planning for additive manufacturing </font> 
 
 
-<hr style="border:0.6px solid blue"> 
+<hr style="border:1px dashed blue"> 
 
 ### **News:** 
 
