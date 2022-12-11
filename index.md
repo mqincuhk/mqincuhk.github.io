@@ -7,15 +7,13 @@ I obtained my Ph.D. degree in Mechanical and Automation Engineering from The Chi
 
 Please contact me via the email: <i><u> mqin@cuhk.edu.hk </u> </i>
 
-<hr style="border:1px solid blue"> 
-
 ### **Research Interests:**
 - <font color=black> Path planning and optimization algorithms </font> 
 - <font color=black> Deep reinforcement learning-based path optimization </font> 
 - <font color=black> Multi-axis path planning for additive manufacturing </font> 
 
 
-<hr style="border:1px dashed blue"> 
+<hr style="border:1px dashed grey"> 
 
 ### **News:** 
 
@@ -25,7 +23,7 @@ Please contact me via the email: <i><u> mqin@cuhk.edu.hk </u> </i>
 
 
 <p style = "margin:20px"></p>
-<hr style="border:1px solid blue"> 
+<hr style="border:1px dashed grey"> 
 
 ### **Recent Publications:**  
 
@@ -41,12 +39,11 @@ Please contact me via the email: <i><u> mqin@cuhk.edu.hk </u> </i>
  
 <img src="assets/img/multi-axis.jpg" alt="drawing" width="520"/>    
   
-<hr style="border:1px solid blue"> 
+<hr style="border:1px dashed grey"> 
 
 ### **Awards:**
 - Teaching Assistant: Faculty Outstanding Tutor Award (2021) 
 
-<hr style="border:1px solid blue"> 
 
 ### **Programming:**
 - Languages: [Python](https://docs.python.org/3.11/tutorial/index.html);   [C++](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#c-core-guidelines);   [Matlab](https://www.mathworks.com/help/matlab/getting-started-with-matlab.html)     
